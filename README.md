@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 5th year Data Science major at UC San Diego, finishing up my last quarter at school.
+I'm a 5th year Data Science major at UC San Diego, finishing up my last quarter at school (graduating in March 2021).
 
 - 🔭 I’m currently working on projects (school, research, etc) mostly on Python, SQL and R. Also some front-end.
 - 🌱 I’m currently learning more about git practices, advanced SQL and NoSQL DBs.
