@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+I'm a 5th year Data Science major at UC San Diego, finishing up my last quarter at school.
+
 - 🔭 I’m currently working on projects (school, research, etc) mostly on Python, SQL and R. Also some front-end.
 - 🌱 I’m currently learning more about git practices, advanced SQL and NoSQL DBs.
 
-- 📫 How to reach me: [email](mailto:skdud712@gmail.com)
+- 📫 How to reach me: [email](mailto:skdud712@gmail.com), [LinkedIn](linkedin.com/in/nayoung-park)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm desperately waiting for Pokemon's 4th gen remake to come out[(!!)](https://www.dexerto.com/pokemon/pokemon-diamond-and-pearl-remake-release-date-1494994/)
 
