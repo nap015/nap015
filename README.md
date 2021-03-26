@@ -2,7 +2,7 @@
 
 I graduated from UC San Diego in March 2021, with a B.S. in Data Science and a minor in General Biology.
 
-- 🔭 I’m currently working on projects (school, research, etc) mostly on Python, SQL and R. Also some front-end.
+- 🔭 I’m currently working on personal projects mostly on Python, SQL and R. Also interested in front-end.
 - 🌱 I’m currently learning more about git practices, advanced SQL and NoSQL DBs.
 
 - 📫 How to reach me: [email](mailto:skdud712@gmail.com), [LinkedIn](linkedin.com/in/nayoung-park)
